@@ -1,5 +1,10 @@
-In this project, let's build a **Digital Timer App** by applying the concepts we have learned till now.
+Project - **Digital Timer App**
 
+link- **https://vgk02DigiTimer.ccbp.tech**
+
+Technologies used- React.js, CSS, Flexbox, Javascript
+
+--------------------------------------------------------------------------------------------------------------------------
 ### Refer to the image below:
 
 <br/>
