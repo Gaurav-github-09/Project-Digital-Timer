@@ -15,7 +15,7 @@ Technologies used- React.js, CSS, Flexbox, Javascript
 
 -----------------------------------------------------------------------------
 
-The app has the following functionalities
+This app will have the following functionalities
 
 - The default timer limit value is 25 minutes
 - When the **Start** button is clicked,
